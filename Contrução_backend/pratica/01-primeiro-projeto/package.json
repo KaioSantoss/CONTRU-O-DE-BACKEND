@@ -1,0 +1,20 @@
+{
+  "name": "01-primeiro-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/KaioSantoss/CONTRU-O-DE-BACKEND#readme",
+  "bugs": {
+    "url": "https://github.com/KaioSantoss/CONTRU-O-DE-BACKEND/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaioSantoss/CONTRU-O-DE-BACKEND.git"
+  },
+  "license": "ISC",
+  "author": "Kaio Santos",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
