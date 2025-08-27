@@ -1,4 +1,4 @@
-console.log("executando meu primeiro projetoem NODE")
+console.log("executando meu primeiro projeto em NODE")
 
 let nome = "Kaio"
 

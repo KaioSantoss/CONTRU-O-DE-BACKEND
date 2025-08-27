@@ -1,0 +1,13 @@
+{
+  "name": "exercicios",
+  "version": "1.0.0",
+  "description": "Projeto Node.js com módulo de calculadora",
+  "main": "03-calculadora-node.js",
+  "scripts": { "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kaio Santos",
+  "license": "ISC",
+  "type": "commonjs"
+}
